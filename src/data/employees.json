@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Kareem Helal",
+      "job": "Full-Stack Developer",
+      "state": "Approved"
+    },
+    {
+      "id": 2,
+      "name": "Robert Smith",
+      "job": "Frontend Developer",
+      "state": "In-Check"
+    },
+    {
+      "id": 3,
+      "name": "Maria Hernandez",
+      "job": "Business Analyst",
+      "state": "ADDED"
+    },
+    {
+      "id": 4,
+      "name": "John Dow",
+      "job": "Social Media Specialist",
+      "state": "In-Active"
+    }
+  ]
+}
